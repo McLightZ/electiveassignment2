@@ -115,4 +115,4 @@ var server = app.listen(app.get('port'), function(){
 * ```$ git add .```
 * ```$ git commit -m "deploy to heroku"```
 * ```$ git push -u heroku master```
-* ```$ heroku open```git 
+* ```$ heroku open```
